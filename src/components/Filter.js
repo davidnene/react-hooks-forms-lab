@@ -9,7 +9,6 @@ function Filter({ onCategoryChange, onSearchChange, search }) {
         <option value="Produce">Produce</option>
         <option value="Dairy">Dairy</option>
         <option value="Dessert">Dessert</option>
-        <option value="Enjoyment">Enjoyment</option>
       </select>
     </div>
   );
